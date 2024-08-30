@@ -1,0 +1,25 @@
+# Node modules (if using Node.js)
+node_modules/
+
+# Build output directories
+dist/
+build/
+
+# TypeScript build artifacts
+*.js
+*.js.map
+*.d.ts
+
+# Log files
+*.log
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
